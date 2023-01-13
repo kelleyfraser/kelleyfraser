@@ -15,6 +15,7 @@ If you'd like to learn more about my skills and experience please visit my [port
 
 ## :computer: Tech stack
 
+<div style="background-color:white">
 <img width="60px" src="./images/html.png"></img>
 <img width="60px" src="./images/css.png"></img>
 <img width="60px" src="./images/sass.png"></img>
@@ -27,3 +28,4 @@ If you'd like to learn more about my skills and experience please visit my [port
 <img width="60px" src="./images/mySQL.png"></img>
 <img width="60px" src="./images/git.png"></img>
 <img width="60px" src="./images/github.png"></img>
+</div>
