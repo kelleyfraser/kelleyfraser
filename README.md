@@ -4,7 +4,7 @@ I'm a self-taught front-end developer transitioning from a career in geoscience.
 
 I'm passionate about creating beautiful and minimal yet functional web products. 
 
-If you'd like to learn more about my skills and experience please visit my [portfolio](kelleyfraser.com)
+If you'd like to learn more about my skills and experience please visit my [portfolio](https://www.kelleyfraser.com)
 
 ## :woman_technologist: About me
 
